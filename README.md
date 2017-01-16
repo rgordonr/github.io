@@ -1,6 +1,9 @@
 ## Welcome to GitHub Pages
 
-[editor on GitHub](https://github.com/rgordonr/github.io/about.html)
+---
+title: My page title
+permalink: /about/
+---
 
 You can use the [editor on GitHub](https://github.com/rgordonr/github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
