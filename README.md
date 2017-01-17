@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
 
-[My page](/docs/test.html)
+## [My page](/docs/test.html)
+<link href="{{ site.baseurl }}/docs/test.html">
 
 You can use the [editor on GitHub](https://github.com/rgordonr/github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
